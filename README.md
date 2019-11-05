@@ -1,5 +1,5 @@
 # nginx-mysql-php
-Use docker-compose to build nginx, mysql, php, php, phpmyadmin environment.
+Use docker-compose to build nginx, mysql, php, phpmyadmin environment.
 
 ### Project tree
 ```
